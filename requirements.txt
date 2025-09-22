@@ -1,0 +1,6 @@
+pandas
+plotly
+matplotlib
+wordcloud
+jupyter
+ipywidgets
